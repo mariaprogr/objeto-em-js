@@ -14,7 +14,7 @@ costumer.enderecos = [
 
 costumer.enderecos.push({
     rua: "Colonial",
-    número: 500,
+    número: 5000,
     apto: false,
 });
 
