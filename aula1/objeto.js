@@ -18,6 +18,6 @@ const objetoHamburguer = {
     valor: 11.50,
 };
 
-console.log(Hamburgueria);
+console.log(HamburgueriaTOP);
 
 
